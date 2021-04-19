@@ -1,6 +1,8 @@
 OneEuroFilter
 =============
 
+![gif](https://imgur.com/Ev3LKgG)
+
 **OneEuroFilter** is a Unity sample implementation of the "1€ Filter" described
 in [Géry et al. (CHI 2012)][Gery2012].
 
